@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+/*body {
+    font-family: 'Muli', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+
+}
+*/
+.custom_album {
+
+    font-family: 'Muli', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+/*    height: 100vh;*/
+    overflow: hidden;
+    width: 90vw;
+
+}
+
+.panel {
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 55vh;
+    border-radius: 50px;
+    color: azure;
+    cursor: pointer;
+    flex: 0.5;
+    margin: 10px;
+    position: relative;
+    -webkit-transition: all 700ms ease-out;
+}
+
+.panel.active {
+    flex: 5;
+}
+
+.panel h3 {
+    font-size: 21px;
+    position: absolute;
+/*    bottom: 20px;*/
+    left: 20px;
+    margin: 8px;
+    opacity: 0;
+
+}
+
+.panel.active h3 {
+    opacity: 1;
+    transition:  0.3s ease-in 0.4s;
+
+}
+
+
+/*showing text on hover*/
+
+
+.show_first_item {
+  display: block;
+  color: red !important;
+}
+
+.hidden_display {
+  display: none;
+}
+
+
+
+
+/*.myDIV:hover + .ss {
+  display: block;
+  color: red;
+}*/
+
+
+
+@media(max-width: 480px) {
+    /*.container {
+        width: 100vw;
+    }*/
+
+    .panel:nth-of-type(5),
+    .panel:nth-of-type(6) {
+        display: none;
+    }
+}
