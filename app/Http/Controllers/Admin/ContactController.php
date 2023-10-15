@@ -51,7 +51,7 @@ class ContactController extends Controller
 
     //for site user email
      \Mail::send('emails.site_user_email_page', $maildetails, function($message) use ($site_user_email, $maildetails) {
-        $message->from('365techworld1@gmail.com');
+        $message->from('365techworldhr@gmail.com');
         $message->to($site_user_email);
         $message->subject($maildetails['mail_subject']);
     });
@@ -74,7 +74,7 @@ class ContactController extends Controller
 
      \Mail::send('emails.admin_email_page', $adminMaildetails, function($message) use ($site_user_email, $adminMaildetails) {
         $message->from($site_user_email);
-        $message->to('365techworld1@gmail.com');
+        $message->to('365techworldhr@gmail.com');
         $message->subject($adminMaildetails['mail_subject']);
     });
         

@@ -63,7 +63,7 @@
 	</div>
 
 	<div class="col-md-4">
-		<p class="mb-2" ><i class="fa fa-envelope me-3" style="color: #22beda"></i><a href="mailto:365techworld1@gmail.com" style="color: #464655">365techworld1@gmail.com</a></p>
+		<p class="mb-2" ><i class="fa fa-envelope me-3" style="color: #22beda"></i><a href="mailto:365techworldhr@gmail.com" style="color: #464655">365techworldhr@gmail.com</a></p>
 	</div>
 
 	<div class="col-md-4">

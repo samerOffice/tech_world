@@ -335,7 +335,7 @@
                     <div class="btn-square mx-auto mb-3">
                         <i class="fa fa-envelope fa-2x text-white"></i>
                     </div>
-                    <p class="mb-2">365techworld1@gmail.com</p>
+                    <p class="mb-2">365techworldhr@gmail.com</p>
                 </div>
                 <div class="col-md-4 text-center wow fadeInUp" data-wow-delay="0.4s">
                     <div class="btn-square mx-auto mb-3">

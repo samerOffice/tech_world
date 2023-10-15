@@ -84,7 +84,7 @@ Route::get('/send-mail', function () {
         'body' => 'This is for testing email using smtp'
     ];
    
-    \Mail::to('365techworld1@gmail.com')->send(new \App\Mail\MyTestMail($details));
+    \Mail::to('365techworldhr@gmail.com')->send(new \App\Mail\MyTestMail($details));
    
     dd("Email is Sent.");
 });
