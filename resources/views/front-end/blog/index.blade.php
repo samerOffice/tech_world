@@ -6,7 +6,7 @@
     <div class="container-fluid product py-5 my-5">
         <div class="container py-5" style="margin-top: -60px;">
             <div class="section-title text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">         
-                <h1 class="display-6" style="font-family: Bahnschrift Light; color: #22beda;">Blogs</h1>
+                <h1 class="display-6" style="font-family: Bahnschrift Light; color: #22beda;">Blogssssss</h1>
             </div>
             <div class="owl-carousel product-carousel wow fadeInUp" data-wow-delay="0.5s">
 
