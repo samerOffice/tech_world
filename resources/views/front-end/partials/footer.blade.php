@@ -8,7 +8,7 @@
 
                     <p class="mb-2" style="font-family: Bahnschrift Light;"><i class="fa fa-phone-alt  me-3" style="color: #22beda"></i>+8801817279727</p>
 
-                    <p class="mb-2" style="font-family: Bahnschrift Light; "><i class="fa fa-envelope me-3" style="color: #22beda"></i><a href="mailto:365techworld1@gmail.com">365techworld1@gmail.com</a></p>
+                    <p class="mb-2" style="font-family: Bahnschrift Light; "><i class="fa fa-envelope me-3" style="color: #22beda"></i><a href="mailto:365techworldhr@gmail.com">365techworldhr@gmail.com</a></p>
                     <div class="d-flex pt-3">
                         <a class="btn btn-primary rounded-circle" href="" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                         &nbsp;<a class="btn btn-primary rounded-circle" href="" title="Linked in" style="background-color: #0a66c2; border-color: #0a66c2;"><i class="fab fa-linkedin-in"></i></a>
