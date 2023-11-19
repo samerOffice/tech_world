@@ -13,20 +13,20 @@
                 </div>
 
             	<div class="col-md-6 wow fadeInUp">
-			  <p class="" style="font-family: Bahnschrift Light; color: #464655; font-size: 20px; text-align: justify;
+			  <p class="" style="font-family: Michroma; color: #464655; font-size: 20px; text-align: justify;
 			  text-justify: inter-word;">
                 <span style="font-weight: bold;">Graphics design:</span> 
                 In the empire of digital marketing, it is must to hold the audience's interest and for that there is no alternative rather than graphics design. Graphics design is that tool which creates an eye-catching view and it ties someone to know more about a particular topic. Visual content always says something more than written content. For digital marketing campaigns such as social media graphics,eye-catching display ads, attention grabbing website banners, lucrative social media graphics content always try to convey about the brand, always try to give a message about the product or services very effectively which boost the overall company success. Our 365 Tech world team always gives someone a comfort to work with a working friendly zone where one can visualize his or her dream project. So, be with us and grab the opportunity. Our graphics design services are:
                  <div class="row">
                     <div class="col-6">
-                        <ul style="font-family: Bahnschrift Light; color: #464655; font-size: 18px;">
+                        <ul style="font-family: Michroma; color: #464655; font-size: 18px;">
                             <li>Minimalist Logo Design.</li>
                             <li>Illustration.</li>
                             <li>Image Editing.</li>                           
                         </ul>
                     </div>
                     <div class="col-6">
-                        <ul style="font-family: Bahnschrift Light; color: #464655; font-size: 18px; ">
+                        <ul style="font-family: Michroma; color: #464655; font-size: 18px; ">
                             <li>T-Shirts & Merchandise.</li>
                             <li>Industrial & Product Design.</li>
                             <li>Social Media Design.</li>
@@ -40,7 +40,7 @@
 
              <!-- technologies we use start -->
         <div class="row g-4" style="margin-top: 10px">
-            <h2 style="text-align: center; font-family: Bahnschrift Light; color: #464655; ">Technologies We Serve In</h2>
+            <h2 style="text-align: center; font-family: Michroma; color: #464655; ">Technologies We Serve In</h2>
       <div class="container-fluid" data-aos="fade-up">
         <div class="row gy-4">
                 

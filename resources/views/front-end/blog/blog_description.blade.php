@@ -20,7 +20,7 @@
                     
                 </div>
                 <div class="col-md-8 wow fadeInUp">
-              <p class="" style="font-family: Bahnschrift Light; color: #464655; font-size: 20px; text-align: justify;
+              <p class="" style="font-family: Michroma; color: #464655; font-size: 20px; text-align: justify;
               text-justify: inter-word;">
                 <span style="font-weight: bold; margin-left: 10px">{{$blog->blog_title}}</span>
                 <textarea  class="summernoteEx">{{ $blog->blog_description }}</textarea>

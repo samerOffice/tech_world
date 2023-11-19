@@ -13,14 +13,14 @@
                 </div>
 
             	<div class="col-md-6 wow fadeInUp">
-			  <p class="" style="font-family: Bahnschrift Light; color: #464655; font-size: 20px; text-align: justify;
+			  <p class="" style="font-family: Michroma; color: #464655; font-size: 20px; text-align: justify;
 			  text-justify: inter-word;">
                 <span style="font-weight: bold;">Website design and development:</span> 
                 The world is becoming smaller day by day because of fast growing technology. Nowadays any information is available and accessible. A well-designed website helps us to communicate easily and it's strong presence helps to make clients interactive. 365 tech world team designs user friendly and easily accessible websites for the business world. Our website design and development service includes:
 
                 <div class="row">
                     <div class="col-6">
-                        <ul style="font-family: Bahnschrift Light; color: #464655; font-size: 18px;">
+                        <ul style="font-family: Michroma; color: #464655; font-size: 18px;">
                             <li>Stunning Visual Design.</li>
                             <li>Compelling Content.</li>
                             <li>Seamless Navigation.</li>
@@ -28,7 +28,7 @@
                         </ul>
                     </div>
                     <div class="col-6">
-                        <ul style="font-family: Bahnschrift Light; color: #464655; font-size: 18px; ">
+                        <ul style="font-family: Michroma; color: #464655; font-size: 18px; ">
                             <li>Search Engine Optimization.</li>
                             <li>Multi-device optimization.</li>
                             <li>Great performance.</li>
@@ -43,7 +43,7 @@
 
              <!-- technologies we use start -->
         <div class="row g-4" style="margin-top: 10px">
-            <h2 style="text-align: center; font-family: Bahnschrift Light; color: #464655; ">Technologies We Serve In</h2>
+            <h2 style="text-align: center; font-family: Michroma; color: #464655; ">Technologies We Serve In</h2>
       <div class="container-fluid" data-aos="fade-up">
         <div class="row gy-4">
             <!-- html5 -->

@@ -15,9 +15,9 @@
     <div class="container-xxl contact py-5" id="contact" style="margin-top: -70px">
         <div class="container">
             <div class="section-title text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">         
-                <h1 class="display-6" style="font-family: Bahnschrift Light; color: #22beda;">Terms and Conditions</h1>
+                <h1 class="display-6" style="font-family: Michroma; color: #22beda;">Terms and Conditions</h1>
             </div>
-           <div class="row g-5 mb-5" style="font-family: Bahnschrift Light; color: #464655; text-align: justify;text-justify: inter-word;">
+           <div class="row g-5 mb-5" style="font-family: Michroma; color: #464655; text-align: justify;text-justify: inter-word;">
                
                 <h6 style="margin-bottom: -25px">365 Tech world:</h6>
                 <p>365 Tech world is a site where a person can buy any kind of digital services. Our site may refer to a digital store where someone piles all kinds of digital records. This is a website where we keep all kinds of digital materials which permits us to browse, view, acquire, export and more. We appreciate people reading all the policies carefully. If one does not agree with our policy then please don’t go with us.</p>

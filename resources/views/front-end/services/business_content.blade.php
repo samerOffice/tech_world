@@ -13,9 +13,9 @@
                 </div>
 
             	<div class="col-md-6 wow fadeInUp">
-			  <p class="" style="font-family: Bahnschrift Light; color: #464655; font-size: 20px; text-align: justify;
+			  <p class="" style="font-family: Bahnschrift Light; color: #d7d7d8; font-size: 20px; text-align: justify;
 			  text-justify: inter-word;">
-                <span style="font-weight: bold;">Content creation:</span> 
+                <span style="font-weight: bold; color : #06d8ff">Content creation:</span> 
                 Nowadays technologies are changing so fast. With technology we need to keep pace with that. There is no alternative rather than content creation. If someone brings any new technology or application then one needs to explain it. For explaining anything someone needs to give a short brief or ideas about that particular topic. So, content is a must. Here we have content writers who are professionals, who write informative articles and can engage people with the articles subject. They not only give you authentic content but also provide you content which is absolutely plagiarism free. Here you get Feature articles, Web content, social media content, copywriting content, script writing content, visual content, blog post to press release. So, stay with us. Thank you.
              </p>
           	</div>

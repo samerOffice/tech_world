@@ -15,7 +15,7 @@
     <div class="container-xxl contact py-5" id="contact" style="margin-top: -70px">
         <div class="container">
             <div class="section-title text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">         
-                <h1 class="display-6" style="font-family: Bahnschrift Light; color: #22beda;">Contact Us</h1>
+                <h1 class="display-6" style="font-family: Michroma; color: #22beda;">Contact Us</h1>
             </div>
            <div class="row g-5 mb-5">
                 <div class="col-md-4 text-center wow fadeInUp" data-wow-delay="0.3s">
@@ -56,7 +56,7 @@
 
      <div class="row g-5" style="background-image: url('{{ asset('public/assets/frontend/img/bg.jpg')}}'); background-size: cover; opacity: 0.7 ">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <h5 class="mb-4" style="font-family: Bahnschrift Light; color: #464655;" id="feedback">If you have any queries please share with us. We will contact you as soon as possible.</h5>
+                    <h5 class="mb-4" style="font-family: Michroma; color: #464655;" id="feedback">If you have any queries please share with us. We will contact you as soon as possible.</h5>
 
                     @if ($message = Session::get('success'))                  
 
