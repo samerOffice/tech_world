@@ -14,9 +14,9 @@
 
     <!-- Google Web Fonts -->
     <!-- <link href="{{asset('public/assets/frontend/google fonts/font_family.css')}}" rel="stylesheet"> -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Michroma' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Bahnschrift Light' rel='stylesheet'>
 
     <!-- Icon Font Stylesheet -->
 
@@ -96,6 +96,23 @@
          66%  {inset:-10px;transform: rotate(90deg)}
          100% {inset:0    ;transform: rotate(90deg)}
       }
+
+body{
+  background-color: #151515;
+}
+
+
+  video.bg-video {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: 800px !important;
+  height: 600px !important;
+  transform: translateX(-20%) translateY(-10%);
+  z-index: 0;
+}
 
   </style>
 

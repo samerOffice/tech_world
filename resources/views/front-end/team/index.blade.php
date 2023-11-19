@@ -6,62 +6,79 @@
     <div class="container-xxl py-5" id="">
         <div class="container">
             <div class="section-title text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">         
-                <h1 class="display-6" style="font-family: Bahnschrift Light; color: #22beda;">Our Team</h1>
+                <h1 class="display-6" style="font-family: Michroma; color: #22beda;">Our Team</h1>
             </div>
-            <p class="mb-5" style="font-family: Bahnschrift Light; color: #464655; font-size: 20px;">We are a group of young enthusiastic, energetic, trustworthy web developers, Graphics designers, content developers who are sitting here to serve you 24 hours. As a company we hold the lantern of technology which enlightens your business world. So, meet us and tell us about your journey and be a part of our state-of-the-art technology. Thank you.</p>
+            <p class="mb-5" style="font-family: Michroma; color: #464655; font-size: 20px;">We are a group of young enthusiastic, energetic, trustworthy web developers, Graphics designers, content developers who are sitting here to serve you 24 hours. As a company we hold the lantern of technology which enlightens your business world. So, meet us and tell us about your journey and be a part of our state-of-the-art technology. Thank you.</p>
             <div class="row g-4">
-
+               
+                <!--rajib -->
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item position-relative text-center">
-                        <img class="img-fluid" src="{{asset('public/assets/frontend/img/rajib.png')}}" style="width: 22rem;" alt="image">
+                        <img class="img-fluid" src="{{asset('public/assets/frontend/img/rajib.png')}}" style="width: 21rem; border-radius: 50%;" alt="image">
                         <div class="p-4">                           
-                            <h5 class="mb-3" style="font-family: Bahnschrift Light; color: #464655;">Rajib Ahmed</h5>
-                            <p style="font-family: Bahnschrift Light; color: #464655;">Chief Executive Officer</p>
+                            <h5 class="mb-3" style="font-family: Michroma; color: #464655;">Rajib Ahmed</h5>
+                            <p style="font-family: Michroma; color: #464655;">Chief Executive Officer</p>
+                        </div>
+                        
+                    </div>
+                </div>
+  
+                <!--shawon -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item position-relative text-center">
+                        <img class="img-fluid" src="{{asset('public/assets/frontend/img/shawon.png')}}" style="width: 20rem; border-radius: 50%;" alt="image">
+                        <div class="p-4">                           
+                            <h5 class="mb-3" style="font-family: Michroma; color: #464655;">Mohammad Arafat Uzzaman</h5>
+                            <p style="font-family: Michroma; color: #464655;">Chief Marketing Director</p>
                         </div>
                         
                     </div>
                 </div>
 
+                <!--hasan -->
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item position-relative text-center">
-                        <img class="img-fluid" src="{{asset('public/assets/frontend/img/shawon.png')}}" style="width: 21rem;" alt="image">
+                        <img class="img-fluid" src="{{asset('public/assets/frontend/img/hasan3.png')}}" style="width: 28rem; border-radius: 50%;" alt="image">
                         <div class="p-4">                           
-                            <h5 class="mb-3" style="font-family: Bahnschrift Light; color: #464655;">Mohammad Arafat Uzzaman</h5>
-                            <p style="font-family: Bahnschrift Light; color: #464655;">Chief Marketing Officer</p>
+                            <h5 class="mb-3" style="font-family: Michroma; color: #464655;">Mohammad Hasan</h5>
+                            <p style="font-family: Michroma; color: #464655;">Board of Director</p>
                         </div>
                         
                     </div>
                 </div>
 
+                <!--pappu -->
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item position-relative text-center">
-                        <img class="img-fluid" src="{{asset('public/assets/frontend/img/pappu.png')}}" style="width: 19rem;" alt="image">
+                        <img class="img-fluid" src="{{asset('public/assets/frontend/img/pappu.png')}}" style="width: 17rem; border-radius: 50%;" alt="image">
                         <div class="p-4">                           
-                            <h5 class="mb-3" style="font-family: Bahnschrift Light; color: #464655;">Md. Abdur Rob Pappu</h5>
-                            <p style="font-family: Bahnschrift Light; color: #464655;">Country Manager</p>
+                            <h5 class="mb-3" style="font-family: Michroma; color: #464655;">Md. Abdur Rob Pappu</h5>
+                            <p style="font-family: Michroma; color: #464655;">Country Manager</p>
                         </div>
                         
                     </div>
                 </div>
 
+                <!--eva -->
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item position-relative text-center">
-                    <img class="img-fluid" src="{{asset('public/assets/frontend/img/eva.png')}}" style="width: 23rem;" alt="image">
+                    <img class="img-fluid" src="{{asset('public/assets/frontend/img/eva.png')}}" style="width: 22rem; border-radius: 50%;" alt="image">
                         <div class="p-4">                           
-                            <h5 class="mb-3" style="font-family: Bahnschrift Light; color: #464655;">Kamrun Nahar</h5>
-                            <p style="font-family: Bahnschrift Light; color: #464655;">Communication Manager & Content Writer</p>
+                            <h5 class="mb-3" style="font-family: Michroma; color: #464655;">Kamrun Nahar</h5>
+                            <p style="font-family: Michroma; color: #464655;">Communication Manager & Content Writer</p>
                         </div>
                        
                     </div>
                 </div>
 
 
+                <!--samer -->
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item position-relative text-center">
-                        <img class="img-fluid" src="{{asset('public/assets/frontend/img/samer.png')}}" style="width: 19rem;" alt="image">
+                        <img class="img-fluid" src="{{asset('public/assets/frontend/img/samer.png')}}" style="width: 17rem; border-radius: 50%;" alt="image">
                         <div class="p-4">                           
-                            <h5 class="mb-3" style="font-family: Bahnschrift Light; color: #464655;">Abul Kauser Samer</h5>
-                            <p style="font-family: Bahnschrift Light; color: #464655;">Software Engineer</p>
+                            <h5 class="mb-3" style="font-family: Michroma; color: #464655;">Abul Kauser Samer</h5>
+                            <p style="font-family: Michroma; color: #464655;">Software Engineer</p>
                         </div>
                         
                     </div>

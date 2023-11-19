@@ -930,26 +930,26 @@ var excelStrings = {
 			'<fonts count="5" x14ac:knownFonts="1">'+
 				'<font>'+
 					'<sz val="11" />'+
-					'<name val="Bahnschrift Light" />'+
+					'<name val="Michroma" />'+
 				'</font>'+
 				'<font>'+
 					'<sz val="11" />'+
-					'<name val="Bahnschrift Light" />'+
+					'<name val="Michroma" />'+
 					'<color rgb="FFFFFFFF" />'+
 				'</font>'+
 				'<font>'+
 					'<sz val="11" />'+
-					'<name val="Bahnschrift Light" />'+
+					'<name val="Michroma" />'+
 					'<b />'+
 				'</font>'+
 				'<font>'+
 					'<sz val="11" />'+
-					'<name val="Bahnschrift Light" />'+
+					'<name val="Michroma" />'+
 					'<i />'+
 				'</font>'+
 				'<font>'+
 					'<sz val="11" />'+
-					'<name val="Bahnschrift Light" />'+
+					'<name val="Michroma" />'+
 					'<u />'+
 				'</font>'+
 			'</fonts>'+

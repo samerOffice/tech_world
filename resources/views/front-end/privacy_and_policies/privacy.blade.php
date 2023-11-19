@@ -15,9 +15,9 @@
     <div class="container-xxl contact py-5" id="contact" style="margin-top: -70px">
         <div class="container">
             <div class="section-title text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">         
-                <h1 class="display-6" style="font-family: Bahnschrift Light; color: #22beda;">Privacy Policy</h1>
+                <h1 class="display-6" style="font-family: Michroma; color: #22beda;">Privacy Policy</h1>
             </div>
-           <div class="row g-5 mb-5" style="font-family: Bahnschrift Light; color: #464655; text-align: justify;text-justify: inter-word;">
+           <div class="row g-5 mb-5" style="font-family: Michroma; color: #464655; text-align: justify;text-justify: inter-word;">
                
                 <h4 style="margin-bottom: -25px">What personal data we collect and why we collect it</h4>
 
@@ -57,7 +57,7 @@
 </div>
 <!-- big row ends -->
 
- <div class="row" style="font-family: Bahnschrift Light; color: #464655;">
+ <div class="row" style="font-family: Michroma; color: #464655;">
 	<div class="col-md-4">
 		<p class="mb-2"><i class="fa fa-phone-alt  me-3" style="color: #22beda"></i>+8801817279727</p>
 	</div>
